@@ -26,4 +26,4 @@ disp([x1 x2]);
 % QUESTION 2
 A = [1 2 3;1 5 0; 0.5 1.5 4];
 B = [6;6;6];
-disp(A\B
+disp(A\B);
